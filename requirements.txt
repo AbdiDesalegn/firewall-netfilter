@@ -1,0 +1,16 @@
+backports.weakref==1.0.post1
+certifi==2021.10.8
+chardet==4.0.0
+enum34==1.1.10
+functools32==3.2.3.post2
+futures==3.4.0
+google-pasta==0.2.0
+idna==2.10
+nmap==0.0.1
+numpy==1.16.6
+opt-einsum==2.3.2
+requests==2.27.1
+six==1.16.0
+tensorflow-estimator==2.1.0
+urllib3==1.26.15
+wrapt==1.15.0
